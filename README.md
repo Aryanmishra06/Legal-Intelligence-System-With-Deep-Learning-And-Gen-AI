@@ -88,6 +88,7 @@ Google Gemini API for AI-assisted case analysis.
 📂 Project Structure
 
 legal-intelligence-system/
+
 │
 ├── app.py
 ├── model_def.py
