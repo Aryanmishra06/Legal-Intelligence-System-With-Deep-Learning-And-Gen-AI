@@ -85,31 +85,6 @@ PyTorch-based Deep Learning Classifier.
 
 Google Gemini API for AI-assisted case analysis.
 
-📂 Project Structure
-
-legal-intelligence-system/
-
-│
-├── app.py
-├── model_def.py
-├── requirements.txt
-├── Court_dataset.csv
-│
-├── templates/
-│   ├── index.html
-│   └── dashboard.html
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── dl_model.pt
-├── dl_model_config.pkl
-├── dl_label_encoder.pkl
-│
-├── .gitignore
-└── README.md
 
 📊 Project Objectives
 
